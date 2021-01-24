@@ -1,0 +1,7 @@
+{
+  "advancemenot.empty_disallowed_list": "Disallowed dimension list is currently empty",
+  "advancemenot.dimension_not_present": "Cannot remove dimension %s because it is not present in the disallow list",
+  "advancemenot.added_dimension": "Added the %s dimension to the disallow list",
+  "advancemenot.removed_dimension": "Removed the %s dimension from the disallow list",
+  "advancemenot.disallow_dimensions_print": "Currently, unlocking advancements is disallowed in the following dimensions: %s"
+}

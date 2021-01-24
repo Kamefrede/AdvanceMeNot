@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "xyz.kamefrede.advancemenot.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "advancemenot.refmap.json",
+  "mixins": [
+    "MixinEntity",
+    "MixinPlayersAdvancement",
+    "MixinServerPlayerEntity"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
